@@ -1,0 +1,38 @@
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+credentials.json
+.aws/
+.azure/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Temporary, backup, and lock files
+~$*
+*.tmp
+*.temp
+*.bak
+*.backup
+*.log
+*.lock
+
+# Local tooling and agent configuration
+.codex/
+.agents/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local publishing evidence may contain private correspondence
+private-permission-evidence/
