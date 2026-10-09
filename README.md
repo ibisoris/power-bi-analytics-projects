@@ -297,10 +297,7 @@ The project artifacts demonstrate the following analytics capabilities. These de
 - **Dashboard design:** Combining summary cards, comparisons, detail tables, filtering, page navigation, and report tooltips.
 - **Analytical interpretation:** Connecting observable dashboard patterns to business questions while separating objectives, verified observations, and unresolved data-quality issues.
 
-## Attribution and Licensing
-
-**Original author:** Dagogo Orifama.  
-**Original repository:** [Complete Power BI Projects](https://github.com/DagogoOrifama/Complete-Power-BI-Projects).  
+## Attribution and Licensing 
 **Portfolio Author and Maintainer:** Ibinabo Orifama.
 
 The original project documentation, Power BI reports, PDFs, and screenshots retain attribution to Dagogo Orifama. This landing page presents and organizes those materials; it does not claim original authorship of the projects.
