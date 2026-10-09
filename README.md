@@ -309,7 +309,7 @@ The original project documentation, Power BI reports, PDFs, and screenshots reta
 
 **Redistribution:** Do not assume unrestricted reuse, modification, or redistribution of the dashboards, datasets, screenshots, or other assets. Confirm the intended license and applicable permissions with the original author before redistributing them. If MIT licensing is confirmed, preserve the applicable copyright and permission notices. Dataset and third-party asset rights may require separate confirmation.
 
-**Republication permission:** See the [permission and public-sharing record](./REPUBLISHING_PERMISSION.md). Permission scope and clearance are pending confirmation; this portfolio does not claim a repository-wide MIT license.
+**Republication permission:** See the [permission and public-sharing record](./REPUBLISHING_PERMISSION.md). The author has confirmed authorship and that customer/employee data are synthetic or cleared for public sharing. These are author declarations; this portfolio does not claim a repository-wide MIT license.
 
 ## Contact Information
 

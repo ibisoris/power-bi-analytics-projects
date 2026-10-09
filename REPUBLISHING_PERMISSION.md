@@ -6,35 +6,30 @@
 **Email:** [ibisoris2026@gmail.com](mailto:ibisoris2026@gmail.com)  
 **Destination:** [power-bi-analytics-projects](https://github.com/ibisoris/power-bi-analytics-projects)
 
-The portfolio authorship role refers to the portfolio presentation, curation, and documentation. It does not claim original development of reports created by someone else.
+## Author Declaration and Publication Approval
 
-The original projects, reports, screenshots, and accompanying materials are attributed to **Dagogo Orifama**, from [Complete Power BI Projects](https://github.com/DagogoOrifama/Complete-Power-BI-Projects).
+On 9 October 2026, Ibinabo Orifama declared ownership of the projects, confirmed authorship, and requested publication of this portfolio. The declaration covers the portfolio being published: all nine project folders, Power BI reports, PDF documents, existing dashboard screenshots, and embedded datasets.
 
-## Permission Status
+When asked whether the customer and employee names, salaries, and financial records are synthetic or cleared for public sharing, the author answered yes. This records confirmation that the data satisfy at least one of those conditions; it does not identify which condition applies to each record.
 
-**Maintainer declaration, 9 October 2026:** Ibinabo Orifama stated, "the project is mine, so publish it". This records the maintainer's declaration of ownership and request to publish. It is not independent verification of ownership or evidence of a permission grant from the credited original creator. A separate creator permission grant, its scope, conditions, and public-sharing clearance for embedded records have not been supplied.
+These statements are author declarations, not an independent audit of authorship, rights, or data provenance. No separate grant from another creator is asserted, and no license for downstream reuse is created by this record.
 
-Before public republication, record the maintainer's confirmation of:
+## Preserved Source Attribution
 
-- Who granted permission and, if known, when and how it was granted.
-- Whether permission covers all nine projects, PBIX reports, PDF briefs/exports, PNG screenshots, and embedded datasets.
-- Any attribution, commercial-use, redistribution, or other conditions.
-- Whether customer and employee names, salary information, financial records, and other personal data are synthetic or cleared for public sharing.
-
-Identify a maintainer's confirmation as such unless supporting evidence has been independently reviewed. Private correspondence, credentials, and personal identifiers should not be committed as proof. The .gitignore excludes private-permission-evidence/ for local records.
+The existing project documentation attributes the original materials to **Dagogo Orifama**, from [Complete Power BI Projects](https://github.com/DagogoOrifama/Complete-Power-BI-Projects). That source attribution is preserved alongside Ibinabo Orifama's authorship declaration. The relationship between these credits has not been independently verified.
 
 ## Licensing
 
 The nine original project READMEs state: “This project is licensed under the MIT License.” These historical notices are retained.
 
-The local collection and checked upstream root do not contain a standalone license file. GitHub reports no detected upstream license. No repository-wide MIT license is claimed or added here, and this record does not grant rights to downstream users.
+The local collection and checked upstream root do not contain a standalone license file. GitHub reports no detected upstream license. No repository-wide MIT license is claimed or added here. Publication approval and an authorship declaration do not establish a license allowing others to reuse or redistribute every included asset.
 
-The creator's permission to republish, once confirmed, must be distinguished from a license allowing others to reuse or redistribute the work. Dataset and third-party asset rights may require separate clearance.
+Confirm applicable reuse terms and any dataset or third-party asset rights before downstream redistribution.
 
 ## Public-Sharing Review
 
-The inspected documentation and report metadata contain no obvious credential patterns. Screenshots contain customer/employee names and workforce compensation details, and the PBIX data models were not fully decoded or audited. Public-sharing clearance remains pending.
+The inspected documentation and report metadata contained no obvious credential patterns. Screenshots include customer/employee names and workforce compensation details. The embedded PBIX data models were not fully decoded or audited; public-sharing clearance relies on the author's confirmation above.
 
-Original reports, datasets, PDFs, and screenshots have not been modified or redacted. Do not publicly push these assets until the required permission and data-sharing confirmation are recorded.
+Original reports, datasets, PDFs, and screenshots have not been modified or redacted. Private correspondence and sensitive permission evidence should not be committed; private-permission-evidence/ is excluded by .gitignore.
 
 [Return to the portfolio](./README.md)
