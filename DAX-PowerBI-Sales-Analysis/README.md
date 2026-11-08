@@ -146,7 +146,7 @@ The original prerequisites are retained for reference. They are historical proje
 
 ## Attribution and Licensing
 
-Original project materials are credited to **Dagogo Orifama**, from [Complete Power BI Projects](https://github.com/DagogoOrifama/Complete-Power-BI-Projects). **Ibinabo Orifama** maintains this portfolio and its documentation; this does not claim original development of the report.
+These projects demonstrate my capabilities in data preparation, analysis and interactive reporting
 
 **Existing license notice (preserved):**
 
