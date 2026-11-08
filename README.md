@@ -286,7 +286,7 @@ Excel, Power Pivot, and Power View appear in prerequisite descriptions, but thei
 
 ## Skills Demonstrated
 
-The project artifacts demonstrate the following analytics capabilities. These describe the collection's content, rather than a claim that the maintainer personally built the original reports.
+These projects demonstrate my capabilities in data preparation, analysis and interactive reporting.
 
 - **Business question framing:** Converting sales, finance, banking, HR, and product-pricing questions into documented analytical objectives.
 - **KPI reporting:** Presenting sales, profit, headcount, balances, debt, and pricing metrics in stakeholder-facing reports.
