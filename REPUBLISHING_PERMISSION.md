@@ -16,7 +16,7 @@ These statements are author declarations, not an independent audit of authorship
 
 ## Preserved Source Attribution
 
-The existing project documentation attributes the original materials to **Dagogo Orifama**, from [Complete Power BI Projects](https://github.com/DagogoOrifama/Complete-Power-BI-Projects). That source attribution is preserved alongside Ibinabo Orifama's authorship declaration. The relationship between these credits has not been independently verified.
+The existing project documentation attributes the original materials to **Ibinabo Orifama** 
 
 ## Licensing
 
