@@ -300,13 +300,14 @@ The project artifacts demonstrate the following analytics capabilities. These de
 ## Attribution and Licensing 
 **Portfolio Author and Maintainer:** Ibinabo Orifama.
 
-The original project documentation, Power BI reports, PDFs, and screenshots retain attribution to the Maintainer.
+This portfolio contains my Power BI reports, project documentation,
+dashboard screenshots and PDF exports.
 
-**License verification — 9 October 2026:** All nine local project READMEs state that their projects are licensed under the MIT License. However, this local copy contains no standalone license file, the [upstream repository root](https://github.com/DagogoOrifama/Complete-Power-BI-Projects) lists no standalone license file, and [GitHub's repository metadata](https://api.github.com/repos/DagogoOrifama/Complete-Power-BI-Projects) reports no detected license (`license: null`). The README statements and missing license text leave the applicable terms insufficiently documented; this homepage does not introduce a new license or resolve that discrepancy.
+Dataset sources and any third-party materials are credited in the
+relevant project folders. Any applicable third-party terms remain
+in effect.
 
-**Redistribution:** Do not assume unrestricted reuse, modification, or redistribution of the dashboards, datasets, screenshots, or other assets. Confirm the intended license and applicable permissions with the original author before redistributing them. If MIT licensing is confirmed, preserve the applicable copyright and permission notices. Dataset and third-party asset rights may require separate confirmation.
-
-**Republication permission:** See the [permission and public-sharing record](./REPUBLISHING_PERMISSION.md). The author has confirmed authorship and that customer/employee data are synthetic or cleared for public sharing. These are author declarations; this portfolio does not claim a repository-wide MIT license.
+Licensing details are provided in the individual project folders.
 
 ## Contact Information
 
