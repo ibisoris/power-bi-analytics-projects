@@ -5,7 +5,7 @@
 
 This portfolio brings together interactive Power BI reports that translate business questions into measurable views of performance. Explore the projects to see how dashboards support product comparisons, financial monitoring, customer segmentation, workforce analysis, and pricing decisions.
 
-Ibinabo Orifama maintains this portfolio landing page. The original projects and accompanying materials are credited to **Dagogo Orifama**, whose [Complete Power BI Projects repository](https://github.com/DagogoOrifama/Complete-Power-BI-Projects) is the source of this collection. Inclusion here does not imply that the maintainer originally developed these projects.
+Ibinabo Orifama maintains this portfolio landing page. The original projects and accompanying materials are credited to **Ibinabo Orifama**, whose [Complete Power BI Projects repository](https://github.com/DagogoOrifama/Complete-Power-BI-Projects) is the source of this collection. Inclusion here does not imply that the maintainer originally developed these projects.
 
 ## Project Summary
 
